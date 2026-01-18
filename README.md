@@ -1,6 +1,4 @@
-![Stars](https://img.shields.io/github/stars/alphonsasooter/repolens)
-![Forks](https://img.shields.io/github/forks/alphonsasooter/repolens)
-![Issues](https://img.shields.io/github/issues/alphonsasooter/repolens)
+
 
 # RepoLens - GitHub Repository Analyzer
 
@@ -320,3 +318,7 @@ npm run dev
 ```
 
 </div>
+
+![Stars](https://img.shields.io/github/stars/alphonsasooter/repolens)
+![Forks](https://img.shields.io/github/forks/alphonsasooter/repolens)
+![Issues](https://img.shields.io/github/issues/alphonsasooter/repolens)
