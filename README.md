@@ -1,3 +1,6 @@
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alphonsasooter)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsasooter)
+
 # RepoLens - GitHub Repository Analyzer
 
 <div align="center">
