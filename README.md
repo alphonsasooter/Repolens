@@ -1,5 +1,6 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alphonsasooter)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alphonsasooter)
+![Stars](https://img.shields.io/github/stars/alphonsacoder/repolens)
+![Forks](https://img.shields.io/github/forks/alphonsacoder/repolens)
+![Issues](https://img.shields.io/github/issues/alphonsacoder/repolens)
 
 # RepoLens - GitHub Repository Analyzer
 
