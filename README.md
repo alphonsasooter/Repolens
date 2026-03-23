@@ -1,3 +1,4 @@
+<div align="center">
 # RepoLens - GitHub Repository Analyzer
 
 <div align="center">
